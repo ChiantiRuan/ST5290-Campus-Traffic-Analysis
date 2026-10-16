@@ -1,0 +1,45 @@
+{
+ "file": "cap_20260920_112821.pcap",
+ "size_gb": 10.06,
+ "packets": 20522342,
+ "bytes": 9726851800,
+ "first_ts": "2026-09-20 11:28:20.995 CST",
+ "last_ts": "2026-09-20 11:33:20.994 CST",
+ "duration_sec": 300.0,
+ "avg_pps": 68408.1,
+ "avg_mbps": 259.4,
+ "avg_pkt_len": 474.0,
+ "unique_src": 17220,
+ "unique_dst": 27190,
+ "vlan_packets": 0,
+ "protocol": {
+  "TCP": 16198066,
+  "non-IP": 2370521,
+  "UDP": 1765675,
+  "ICMP": 91899,
+  "1,17": 85530,
+  "1,6": 6453,
+  "2": 3479,
+  "ESP": 458,
+  "1,1": 261
+ },
+ "direction": {
+  "internal-internal": 2028731,
+  "internal-external": 15481928,
+  "loopback": 1771317,
+  "external-external": 1240366
+ },
+ "host_classes": {
+  "unknown": 4774,
+  "external": 21758,
+  "internal": 3634,
+  "loopback": 2
+ },
+ "tshark_rc": 0,
+ "hosts_total": 30168,
+ "host_concentration": {
+  "top1_pct_hosts_share": 79.36,
+  "top10_pct_hosts_share": 98.14,
+  "top100_hosts_share_abs": 64.71
+ }
+}

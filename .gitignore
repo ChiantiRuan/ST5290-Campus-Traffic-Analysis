@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 平台
+.DS_Store
+Thumbs.db
+
+# 出图临时日志
+ch_*.log
+*.log
+
+# 伪名化数据副本（含地址的原表已在 data/ 中，见 data/README.md）
+data_anonymized/
+
+# 原始抓包（体积大，不分发）
+*.pcap
+*.pcapng
+
+# 报告侧产物（报告不在本仓库内）
+*.docx
+*.pdf

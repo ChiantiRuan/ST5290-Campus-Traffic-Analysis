@@ -1,0 +1,501 @@
+kind,name,count,category
+dns,_companion-link._tcp.local,8582,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,_rdlink._tcp.local,8349,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,_googlecast._tcp.local,4621,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,h-adashx.ut.taobao.com,4476,E-commerce & local services
+dns,wpad.local,4087,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,optimizationguide-pa.googleapis.com,3101,Cloud services & telemetry
+dns,fwb-print-pc,2652,Internal host names & services
+dns,wpad,2606,Internal host names & services
+dns,fwb-print,2586,Internal host names & services
+dns,_sleep-proxy._udp.local,2332,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,_homekit._tcp.local,2235,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,dev305b52,1918,Internal host names & services
+dns,dev305b52.local,1904,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,www.baidu.com,1896,Search & portals
+dns,galileotelemetry.tencent.com,1846,Cloud services & telemetry
+dns,copilot.tencent.com,1833,Cloud services & telemetry
+dns,drive.wps.cn,1825,Office suite / cloud drive
+dns,win-macfee.local,1818,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,stunrc.ruijienetworks.com,1810,Network device / infra
+dns,ryrc.ruijienetworks.com,1801,Network device / infra
+dns,content-autofill.googleapis.com,1795,Cloud services & telemetry
+dns,win-od4svun7hgd,1791,Internal host names & services
+dns,android.clients.google.com,1765,Cloud services & telemetry
+dns,hp laserjet m203dw (c90da9)._ipps._tcp.local,1576,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,connectivitycheck.platform.hicloud.com,1536,OS / vendor services
+dns,mp.weixin.qq.com,1519,Instant messaging / collaboration
+dns,hp color laserjet pro m453-4 [6e90bc]._ipps._tcp.local,1508,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,connectivitycheck.cbg-app.huawei.com,1377,Cloud services & telemetry
+dns,vas.wps.cn,1333,Office suite / cloud drive
+dns,badjs.weixinbridge.com,1278,Instant messaging / collaboration
+dns,hp color laserjet pro m453-4 [6c836e]._ipp._tcp.local,1270,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,_ipp._tcp.local,1237,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,pp.360mon.cn,1231,Search & portals
+dns,mmbiz.qpic.cn,1230,Cloud services & telemetry
+dns,docs.qq.com,1211,Instant messaging / collaboration
+dns,_ipps._tcp.local,1174,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,www.google.com,1173,Cloud services & telemetry
+dns,macbook pro (3)._companion-link._tcp.local,1146,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,weishengyang’s macbookpro._companion-link._tcp.local,1098,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,_lyra-mdns._udp.local,1089,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,oth.eve.mdt.qq.com,1068,Instant messaging / collaboration
+dns,tm-sdk.platinumai.net,1040,Other / unmatched
+dns,devb60728,1032,Internal host names & services
+dns,hif-dliq.deepseek.com,1021,Other / unmatched
+dns,devb60728.local,1020,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,www.expressapisv2.net,1014,Other / unmatched
+dns,self.events.data.microsoft.com,988,OS / vendor services
+dns,logifier.doubao.com,975,Other / unmatched
+dns,s.f.360.cn,958,Search & portals
+dns,teredo.ipv6.microsoft.com,951,OS / vendor services
+dns,gateway.fe.apple-dns.cn,947,OS / vendor services
+dns,cn.bing.com,944,Search & portals
+dns,dl.vas.wpscdn.cn,936,Office suite / cloud drive
+dns,dns.weixin.qq.com.cn,902,Instant messaging / collaboration
+dns,lb._dns-sd._udp.local,893,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,api.miwifi.com,863,Other / unmatched
+dns,mobile.events.data.microsoft.com,847,OS / vendor services
+dns,otheve.beacon.qq.com,846,Instant messaging / collaboration
+dns,qingcenter.wps.cn,820,Office suite / cloud drive
+dns,gator.volces.com,818,Other / unmatched
+dns,ipv6.msftconnecttest.com,814,OS / vendor services
+dns,win-macfee,804,Internal host names & services
+dns,file.local,761,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,pcapp-data-collect.youku.com,758,Other / unmatched
+dns,mon.zijieapi.com,738,Other / unmatched
+dns,isatap,738,Internal host names & services
+dns,dns.msftncsi.com,735,Other / unmatched
+dns,edge.microsoft.com,729,OS / vendor services
+dns,gateway.fe2.apple-dns.net,725,OS / vendor services
+dns,pc-mon.zijieapi.com,707,Internal host names & services
+dns,shuc-pc-hunt.ksord.com,706,Internal host names & services
+dns,v10.events.data.microsoft.com,702,OS / vendor services
+dns,mcs.zijieapi.com,696,Other / unmatched
+dns,wx.qlogo.cn,692,Other / unmatched
+dns,www.kdocs.cn,687,Office suite / cloud drive
+dns,opt.doubao.com,686,Other / unmatched
+dns,mcs.doubao.com,674,Other / unmatched
+dns,rs-ny.rustdesk.com,671,Other / unmatched
+dns,林憬迪的macbook pro._companion-link._tcp.local,663,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,pconf.f.360.cn,660,Search & portals
+dns,detect.uniontech.com,658,Other / unmatched
+dns,functional.events.data.microsoft.com,657,OS / vendor services
+dns,browser.360.cn,657,Search & portals
+dns,www.bing.com,655,Search & portals
+dns,pantum-67c669.local,653,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,_uscan._tcp.local,645,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,k128-inapp.gslb.ksyuncdn.com,645,Other / unmatched
+dns,www.w3.org,643,Other / unmatched
+dns,_uscans._tcp.local,641,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,qup.f.360.cn,624,Search & portals
+dns,365.kdocs.cn,623,Office suite / cloud drive
+dns,assets.msn.cn,620,Other / unmatched
+dns,_printer._tcp.local,612,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,detectportal.deepin.com,612,Other / unmatched
+dns,_pdl-datastream._tcp.local,610,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,wxa.wxs.qq.com,609,Instant messaging / collaboration
+dns,www.qq.com,600,Instant messaging / collaboration
+dns,dpmupdates.indilogic.com,594,Other / unmatched
+dns,pantum-67c669,585,Internal host names & services
+dns,_airplay._tcp.local,582,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,honeycomb.wpscdn.cn,572,Office suite / cloud drive
+dns,www.msftconnecttest.com,569,OS / vendor services
+dns,_scanner._tcp.local,550,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,_ptp._tcp.local,548,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,_ippusb._tcp.local,548,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,minorshort.weixin.qq.com,546,Instant messaging / collaboration
+dns,ws-std08.sunlogin.oray.com,544,Other / unmatched
+dns,k6o00khcpenbifq,544,Internal host names & services
+dns,_airport._tcp.local,536,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,www.163.com,522,Other / unmatched
+dns,fwb-print.local,522,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,personal.local.wps.cn,515,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,mssdk.bytedance.com,511,Cloud services & telemetry
+dns,report.idqqimg.com,509,Other / unmatched
+dns,fwb-print-pc.local,504,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,account.wps.cn,503,Office suite / cloud drive
+dns,microsoftonline.com,502,OS / vendor services
+dns,adash-api.ding.zj.gov.cn,498,Instant messaging / collaboration
+dns,edith.xiaohongshu.com,493,Other / unmatched
+dns,1.cn.pool.ntp.org,490,Network device / infra
+dns,settings-win.data.microsoft.com,489,OS / vendor services
+dns,docs.gtimg.com,489,Other / unmatched
+dns,honeycomb-plugins.wpscdn.cn,488,Office suite / cloud drive
+dns,h-adashx.dingtalkapps.com,487,Instant messaging / collaboration
+dns,clientservices.googleapis.com,480,Cloud services & telemetry
+dns,laptop-mu2pt7rk.local,474,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,qiantai,471,Internal host names & services
+dns,tiance.wps.cn,470,Office suite / cloud drive
+dns,resolver.dingtalk.com,469,Instant messaging / collaboration
+dns,lws-desktop.dingtalk.com,466,Instant messaging / collaboration
+dns,safebrowsing.googleapis.com,466,Cloud services & telemetry
+dns,docer-api.kdocs.cn,465,Office suite / cloud drive
+dns,2.cn.pool.ntp.org,464,Network device / infra
+dns,_raop._tcp.local,462,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,appassets.androidplatform.net,462,Other / unmatched
+dns,0.cn.pool.ntp.org,461,Network device / infra
+dns,api.trae.com.cn,460,Other / unmatched
+dns,hp laserjet pro m202dw (c707c7)._ipps._tcp.local,450,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,docer.wps.cn,447,Office suite / cloud drive
+dns,docer.kdocs.cn,447,Office suite / cloud drive
+dns,tls-desktop.dingtalk.com,444,Instant messaging / collaboration
+dns,hp color laserjet pro m453-4 [6e90bc]._ipp._tcp.local,441,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,api.wps.cn,438,Office suite / cloud drive
+dns,tt.browser.360.cn,435,Search & portals
+dns,ocsp2.apple.com,433,OS / vendor services
+dns,home.wps.cn,430,Office suite / cloud drive
+dns,printer_n439261m11577._afpovertcp._tcp.local,429,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,sunmi.local,429,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,lucky.wps.cn,423,Office suite / cloud drive
+dns,0.pool.ntp.org,419,Network device / infra
+dns,dig.bdurl.net,417,Other / unmatched
+dns,3.cn.pool.ntp.org,409,Network device / infra
+dns,chat.deepseek.com,409,Other / unmatched
+dns,file,407,Internal host names & services
+dns,pay.wps.cn,403,Office suite / cloud drive
+dns,authds.kylinlot.com,402,Other / unmatched
+dns,accounts.google.com,402,Cloud services & telemetry
+dns,3.asia.pool.ntp.org,399,Network device / infra
+dns,pw.mediav.com,397,Other / unmatched
+dns,wps-docer-property.ks3-cn-beijing.ksyun.com,394,Office suite / cloud drive
+dns,sdk.e.qq.com,393,Instant messaging / collaboration
+dns,vipapi.wps.cn,392,Office suite / cloud drive
+dns,rdate.darkorb.net,391,Network device / infra
+dns,n-devs-ssmb.tplinkcloud.com.cn,390,Other / unmatched
+dns,osfsr.lenovomm.com,387,OS / vendor services
+dns,wps-docer-property.ks3-cn-beijing.ksyuncs.com,385,Office suite / cloud drive
+dns,static2.servyou.com.cn,385,Cloud services & telemetry
+dns,gateway.icloud.com,384,OS / vendor services
+dns,hp color laserjet pro m453-4 [6c836e]._ipps._tcp.local,383,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,0.asia.pool.ntp.org,382,Network device / infra
+dns,1.pool.ntp.org,380,Network device / infra
+dns,g-page-h1.gslb.ksyuncdn.com,377,Other / unmatched
+dns,wps-docer-property.file.docer.com,375,Office suite / cloud drive
+dns,aps.amap.com,373,Other / unmatched
+dns,s.360.cn,373,Search & portals
+dns,ipv6.msftncsi.com,370,Other / unmatched
+dns,_afpovertcp._tcp.local,367,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,_adisk._tcp.local,367,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,ntp.msn.cn,366,Network device / infra
+dns,config.edge.skype.com,359,Other / unmatched
+dns,clients2.google.com,356,Cloud services & telemetry
+dns,www.doubao.com,349,Other / unmatched
+dns,ecs.office.com,347,Office suite / cloud drive
+dns,img-s-msn-com.akamaized.net,341,Other / unmatched
+dns,v20.events.data.microsoft.com,337,OS / vendor services
+dns,mike_hang的macbook air._companion-link._tcp.local,333,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,12413900.sched.legopic2-dk.tdnsv6.com,329,Other / unmatched
+dns,cloud.browser.360.cn,329,Search & portals
+dns,hm.baidu.com,327,Search & portals
+dns,get.sogou.com,325,Search & portals
+dns,docs2.gtimg.com,321,Other / unmatched
+dns,cube.weixinbridge.com,321,Instant messaging / collaboration
+dns,osce12-sc-census.asiainfo-sec.com,319,Endpoint agent / security
+dns,tconf.f.360.cn,318,Search & portals
+dns,res.wx.qq.com,317,Instant messaging / collaboration
+dns,p.grow.360.cn,316,Search & portals
+dns,_rfb._tcp.local,316,Internal discovery (mDNS/SSDP/NetBIOS/print)
+dns,metrics1-drcn.dt.dbankcloud.cn,315,Other / unmatched
+dns,localhost.weixin.qq.com,311,Instant messaging / collaboration
+dns,sdkreport.e.qq.com,308,Instant messaging / collaboration
+tls_sni,h-adashx.ut.taobao.com,3764,E-commerce & local services
+tls_sni,copilot.tencent.com,3704,Cloud services & telemetry
+tls_sni,galileotelemetry.tencent.com,2412,Cloud services & telemetry
+tls_sni,jtoa.hzfi.cn,2036,Other / unmatched
+tls_sni,adash-api.ding.zj.gov.cn,2027,Instant messaging / collaboration
+tls_sni,mobile.events.data.microsoft.com,1606,OS / vendor services
+tls_sni,self.events.data.microsoft.com,1423,OS / vendor services
+tls_sni,dig.lianjia.com,1368,E-commerce & local services
+tls_sni,bag.itunes.apple.com,1029,OS / vendor services
+tls_sni,drive.wps.cn,1002,Office suite / cloud drive
+tls_sni,mp.weixin.qq.com,866,Instant messaging / collaboration
+tls_sni,msg.biji.com,854,Other / unmatched
+tls_sni,wx.qlogo.cn,828,Other / unmatched
+tls_sni,snsqpic.cdn.weixin.qq.com,825,Instant messaging / collaboration
+tls_sni,mbd.baidu.com,797,Search & portals
+tls_sni,api2.cursor.sh,752,Other / unmatched
+tls_sni,gateway.icloud.com.cn,680,OS / vendor services
+tls_sni,dns.alidns.com,679,Other / unmatched
+tls_sni,www.apple.com,664,OS / vendor services
+tls_sni,badjs.weixinbridge.com,664,Instant messaging / collaboration
+tls_sni,c2c.cdn.weixin.qq.com,654,Instant messaging / collaboration
+tls_sni,pc-mon.zijieapi.com,653,Internal host names & services
+tls_sni,mmbiz.qpic.cn,648,Cloud services & telemetry
+tls_sni,osfsr.lenovomm.com,608,OS / vendor services
+tls_sni,panpic.baidu.com,606,Search & portals
+tls_sni,sni.cdn.weixin.qq.com,602,Instant messaging / collaboration
+tls_sni,h-adashx.dingtalkapps.com,589,Instant messaging / collaboration
+tls_sni,gateway.icloud.com,583,OS / vendor services
+tls_sni,hzjtqyjtyxgs.qiyukf.com,575,Other / unmatched
+tls_sni,sg.tgalileo.com,509,Other / unmatched
+tls_sni,imapi.lianjia.com,509,E-commerce & local services
+tls_sni,tiance.wps.cn,506,Office suite / cloud drive
+tls_sni,m5.amap.com,502,Other / unmatched
+tls_sni,mon.zijieapi.com,496,Other / unmatched
+tls_sni,cube.weixinbridge.com,462,Instant messaging / collaboration
+tls_sni,honeycomb.wpscdn.cn,443,Office suite / cloud drive
+tls_sni,otheve.beacon.qq.com,442,Instant messaging / collaboration
+tls_sni,assets.msn.cn,431,Other / unmatched
+tls_sni,vas.wps.cn,431,Office suite / cloud drive
+tls_sni,settings-win.data.microsoft.com,425,OS / vendor services
+tls_sni,www.google.com,421,Cloud services & telemetry
+tls_sni,mcs.doubao.com,411,Other / unmatched
+tls_sni,opt.doubao.com,402,Other / unmatched
+tls_sni,i.work.weixin.qq.com,380,Instant messaging / collaboration
+tls_sni,gator.volces.com,379,Other / unmatched
+tls_sni,edith.xiaohongshu.com,378,Other / unmatched
+tls_sni,v10.events.data.microsoft.com,350,OS / vendor services
+tls_sni,cdn-cq-3.gzhemera.com,349,Other / unmatched
+tls_sni,metrics1-drcn.dt.dbankcloud.cn,347,Other / unmatched
+tls_sni,mcs.zijieapi.com,346,Other / unmatched
+tls_sni,www.doubao.com,342,Other / unmatched
+tls_sni,dig.bdurl.net,342,Other / unmatched
+tls_sni,docs.qq.com,333,Instant messaging / collaboration
+tls_sni,px.wpk.qianwen.com,325,Other / unmatched
+tls_sni,minorshort.weixin.qq.com,319,Instant messaging / collaboration
+tls_sni,px.effirst.com,318,Other / unmatched
+tls_sni,cc-api-data.adobe.io,313,Other / unmatched
+tls_sni,track-sp.mediav.com,312,Other / unmatched
+tls_sni,pan.baidu.com,312,Search & portals
+tls_sni,api.trae.com.cn,308,Other / unmatched
+tls_sni,shuc-js.ksord.com,308,Other / unmatched
+tls_sni,logifier.doubao.com,306,Other / unmatched
+tls_sni,httpdns.platform.dbankcloud.com,291,Other / unmatched
+tls_sni,updates.cdn-apple.com,289,OS / vendor services
+tls_sni,ocsp2.apple.com,285,OS / vendor services
+tls_sni,cn.bing.com,283,Search & portals
+tls_sni,p.grow.360.cn,280,Search & portals
+tls_sni,dd.browser.360.cn,266,Search & portals
+tls_sni,vpapro.sginput.qq.com,265,Instant messaging / collaboration
+tls_sni,ajax.api.ke.com,263,Other / unmatched
+tls_sni,ecs.office.com,261,Office suite / cloud drive
+tls_sni,www.kdocs.cn,259,Office suite / cloud drive
+tls_sni,honeycomb-plugins.wpscdn.cn,258,Office suite / cloud drive
+tls_sni,wxa.wxs.qq.com,256,Instant messaging / collaboration
+tls_sni,px.wpk.quark.cn,254,Other / unmatched
+tls_sni,hm.baidu.com,253,Search & portals
+tls_sni,functional.events.data.microsoft.com,252,OS / vendor services
+tls_sni,assets.msn.com,250,Other / unmatched
+tls_sni,prj-wuying-mobile.cn-hangzhou.log.aliyuncs.com,244,Other / unmatched
+tls_sni,render-prod-tile.amap.com,243,Other / unmatched
+tls_sni,zhengxuansh.96225.com,242,Other / unmatched
+tls_sni,ilinkai.weixin.qq.com,232,Instant messaging / collaboration
+tls_sni,www.baidu.com,228,Search & portals
+tls_sni,get.sogou.com,228,Search & portals
+tls_sni,vcode-od.vivo.com.cn,226,Other / unmatched
+tls_sni,restlbs.map.qq.com,223,Instant messaging / collaboration
+tls_sni,sdkreport.e.qq.com,221,Instant messaging / collaboration
+tls_sni,gw.alipayobjects.com,217,Other / unmatched
+tls_sni,extshort.weixin.qq.com,213,Instant messaging / collaboration
+tls_sni,mssdk.bytedance.com,212,Cloud services & telemetry
+tls_sni,feishu.doubao.com,212,Instant messaging / collaboration
+tls_sni,portal.ucssi.cn,212,Other / unmatched
+tls_sni,hz.ke.com,210,Other / unmatched
+tls_sni,edge.microsoft.com,208,OS / vendor services
+tls_sni,jtdj.iconntech.com,208,Other / unmatched
+tls_sni,qiyukf.com,207,Other / unmatched
+tls_sni,ws-std08.sunlogin.oray.com,206,Other / unmatched
+tls_sni,aps.amap.com,203,Other / unmatched
+tls_sni,lng.xiaohongshu.com,203,Other / unmatched
+tls_sni,www.bing.com,199,Search & portals
+tls_sni,yybadaccess.3g.qq.com,194,Instant messaging / collaboration
+tls_sni,ucdc.upaas.quark.cn,194,Other / unmatched
+tls_sni,exmail.qq.com,191,Instant messaging / collaboration
+tls_sni,apm-native.xiaohongshu.com,191,Other / unmatched
+tls_sni,mdn.alipayobjects.com,190,Other / unmatched
+tls_sni,datagw-edge.alipay.com,188,Other / unmatched
+tls_sni,docs.gtimg.com,184,Other / unmatched
+tls_sni,sdk.e.qq.com,183,Instant messaging / collaboration
+tls_sni,connectivitycheck.platform.hicloud.com,182,OS / vendor services
+tls_sni,openinstall.io,182,Other / unmatched
+tls_sni,hq.sinajs.cn,181,Other / unmatched
+tls_sni,acs.m.taobao.com,179,E-commerce & local services
+tls_sni,safebrowsing.googleapis.com,177,Cloud services & telemetry
+tls_sni,arms-retcode.aliyuncs.com,176,Other / unmatched
+tls_sni,clientservices.googleapis.com,175,Cloud services & telemetry
+tls_sni,rdelivery.qq.com,174,Instant messaging / collaboration
+tls_sni,connect.rom.miui.com,173,Other / unmatched
+tls_sni,ex.exmail.qq.com,171,Instant messaging / collaboration
+tls_sni,browser.events.data.msn.cn,171,Other / unmatched
+tls_sni,bytegate-sg.byteintlapi.com,166,Other / unmatched
+tls_sni,unpm-upaas.uc.cn,166,Other / unmatched
+tls_sni,chat.deepseek.com,164,Other / unmatched
+tls_sni,note.youdao.com,161,Other / unmatched
+tls_sni,login.live.com,161,Other / unmatched
+tls_sni,render-prod-backup-tile.amap.com,161,Other / unmatched
+tls_sni,openplatform-pro.ding.zj.gov.cn,160,Instant messaging / collaboration
+tls_sni,moment.bytedance.com,160,Cloud services & telemetry
+tls_sni,report.idqqimg.com,160,Other / unmatched
+tls_sni,m5-x.amap.com,160,Other / unmatched
+tls_sni,gm.mmstat.com,160,Cloud services & telemetry
+tls_sni,ex.ke.com,156,Other / unmatched
+tls_sni,webcast-core-m.amemv.com,156,Other / unmatched
+tls_sni,mtalk.google.com,155,Cloud services & telemetry
+tls_sni,filedownload.csw.lenovo.com,155,OS / vendor services
+tls_sni,sec.sginput.qq.com,154,Instant messaging / collaboration
+tls_sni,v20.events.data.microsoft.com,154,OS / vendor services
+tls_sni,loc.map.baidu.com,152,Search & portals
+tls_sni,365.kdocs.cn,151,Office suite / cloud drive
+tls_sni,init.itunes.apple.com,150,OS / vendor services
+tls_sni,bjdd-ct11.baidupcs.com,148,Search & portals
+tls_sni,s.360.cn,147,Search & portals
+tls_sni,webcast-normal-m.amemv.com,146,Other / unmatched
+tls_sni,gatherer.m.qq.com,145,Instant messaging / collaboration
+tls_sni,api-normal-m.amemv.com,144,Other / unmatched
+tls_sni,client.wns.windows.com,143,Other / unmatched
+tls_sni,config.edge.skype.com,143,Other / unmatched
+tls_sni,account.wps.cn,141,Office suite / cloud drive
+tls_sni,browser.360.cn,141,Search & portals
+tls_sni,ecom-normal-m.ecombdapi.com,140,Other / unmatched
+tls_sni,ldc.lenovo.com.cn,139,OS / vendor services
+tls_sni,xa-ct20.baidupcs.com,138,Search & portals
+tls_sni,mars.jd.com,137,E-commerce & local services
+tls_sni,geo-drcn.platform.dbankcloud.cn,136,Other / unmatched
+tls_sni,i1.hdslb.com,136,Other / unmatched
+tls_sni,default.exp-tas.com,136,Other / unmatched
+tls_sni,gateway.qoder.com.cn,135,Other / unmatched
+tls_sni,img-s-msn-com.akamaized.net,134,Other / unmatched
+tls_sni,game.weixin.qq.com,133,Instant messaging / collaboration
+tls_sni,wetype.weixin.qq.com,131,Instant messaging / collaboration
+tls_sni,lcs-cops.adobe.io,130,Other / unmatched
+tls_sni,tpstelemetry.tencent.com,130,Cloud services & telemetry
+tls_sni,leturx.cc,129,Other / unmatched
+tls_sni,gw.alicdn.com,128,Other / unmatched
+tls_sni,lcs-robs.adobe.io,127,Other / unmatched
+tls_sni,proj-xtrace-7e235817c9b9381c22d8b743908d469f-cn-beijing.cn-beijing.log.aliyuncs.com,127,Other / unmatched
+tls_sni,shmmsns.qpic.cn,126,Cloud services & telemetry
+tls_sni,weatherkit.apple.com,125,OS / vendor services
+tls_sni,api.wps.cn,125,Office suite / cloud drive
+tls_sni,a.rdt.tfogc.com,124,Other / unmatched
+tls_sni,findermp.video.qq.com,124,Instant messaging / collaboration
+tls_sni,chinanorth3-0.in.applicationinsights.azure.cn,123,Other / unmatched
+tls_sni,data.zcool.com.cn,123,Other / unmatched
+tls_sni,qn.cache.wpscdn.cn,122,Office suite / cloud drive
+tls_sni,at.idqqimg.com,121,Other / unmatched
+tls_sni,dashboard-v2.zhihuishitang.cn,120,Other / unmatched
+tls_sni,cp801.prod.do.dsp.mp.microsoft.com,120,OS / vendor services
+tls_sni,mediacloud.xiaohongshu.com,120,Other / unmatched
+tls_sni,sns-na-i2.xhscdn.com,119,Other / unmatched
+tls_sni,chat.baidu.com,119,Search & portals
+tls_sni,beacon.cdn.qq.com,118,Instant messaging / collaboration
+tls_sni,p11.douyinpic.com,118,Other / unmatched
+tls_sni,sns-na-i1.xhscdn.com,118,Other / unmatched
+tls_sni,push-service-pc.sginput.qq.com,117,Instant messaging / collaboration
+tls_sni,shquic.weixin.qq.com,117,Instant messaging / collaboration
+tls_sni,receiver.tdm.qq.com,117,Instant messaging / collaboration
+tls_sni,res.wx.qq.com,116,Instant messaging / collaboration
+tls_sni,orzonera.yingt.fun,115,Other / unmatched
+tls_sni,sigma-pharosv3-pathn.proxima.nie.netease.com,115,Other / unmatched
+tls_sni,update.pan.baidu.com,114,Search & portals
+tls_sni,accounts.doubao.com,114,Other / unmatched
+tls_sni,rec.xiaohongshu.com,113,Other / unmatched
+tls_sni,slardar-bd.feishu.cn,113,Instant messaging / collaboration
+tls_sni,substrate.office.com,113,Office suite / cloud drive
+tls_sni,restapi.amap.com,112,Other / unmatched
+tls_sni,ty-2.tr202606.com,112,Other / unmatched
+tls_sni,gslb.xiaohongshu.com,112,Other / unmatched
+tls_sni,internal-api-lark-api.feishu.cn,111,Instant messaging / collaboration
+tls_sni,analytics.yinxiang.com,111,Cloud services & telemetry
+tls_sni,sns-na-i6.xhscdn.com,110,Other / unmatched
+tls_sni,dldir1v6.qq.com,110,Instant messaging / collaboration
+http_host,239.255.255.250:1900,44168,Literal IP endpoints (no name)
+http_host,extshort.weixin.qq.com,24698,Instant messaging / collaboration
+http_host,shuc-pc-hunt.ksord.com,6649,Internal host names & services
+http_host,szextshort.weixin.qq.com,6079,Instant messaging / collaboration
+http_host,182.10.10.80:8088,2766,Literal IP endpoints (no name)
+http_host,1d.tlu.dl.delivery.mp.microsoft.com,2182,OS / vendor services
+http_host,minorshort.weixin.qq.com,2061,Instant messaging / collaboration
+http_host,180.101.242.227,1990,Literal IP endpoints (no name)
+http_host,10.101.253.53,1871,Literal IP endpoints (no name)
+http_host,qup.f.360.cn,1714,Search & portals
+http_host,117.89.176.31,1520,Literal IP endpoints (no name)
+http_host,101.226.144.240,1451,Literal IP endpoints (no name)
+http_host,61.151.230.185,1442,Literal IP endpoints (no name)
+http_host,61.151.230.226,1318,Literal IP endpoints (no name)
+http_host,cpf_seaweedfs:9333,1271,Internal host names & services
+http_host,182.10.10.81:32388,1230,Literal IP endpoints (no name)
+http_host,s.f.360.cn,1180,Search & portals
+http_host,10.100.100.40:5013,1176,Literal IP endpoints (no name)
+http_host,cpf_seaweedfs:8080,1168,Internal host names & services
+http_host,qt.gtimg.cn,1031,Other / unmatched
+http_host,10.101.249.159:3000,1027,Literal IP endpoints (no name)
+http_host,101.227.131.167,1011,Literal IP endpoints (no name)
+http_host,10.100.100.40,936,Literal IP endpoints (no name)
+http_host,short.weixin.qq.com,933,Instant messaging / collaboration
+http_host,dns.weixin.qq.com.cn,868,Instant messaging / collaboration
+http_host,mmbiz.qpic.cn,853,Cloud services & telemetry
+http_host,183.136.187.235:5601,845,Literal IP endpoints (no name)
+http_host,125.122.37.44:8090,724,Literal IP endpoints (no name)
+http_host,10.100.28.107,634,Literal IP endpoints (no name)
+http_host,182.10.10.91,596,Literal IP endpoints (no name)
+http_host,szminorshort.weixin.qq.com,569,Instant messaging / collaboration
+http_host,www.baidu.com,552,Search & portals
+http_host,wxapp.tc.qq.com,537,Instant messaging / collaboration
+http_host,pconf.f.360.cn,468,Search & portals
+http_host,pw.mediav.com,425,Other / unmatched
+http_host,sd-gl.comfylink.com,416,Other / unmatched
+http_host,msedge.b.tlu.dl.delivery.mp.microsoft.com,395,OS / vendor services
+http_host,dv.hzfi.cn:37799,389,Other / unmatched
+http_host,q.soft.360.cn,373,Search & portals
+http_host,www.msftconnecttest.com,302,OS / vendor services
+http_host,static-pcs-sdk-server.alibaba.com,289,Cloud services & telemetry
+http_host,183.47.121.90,270,Literal IP endpoints (no name)
+http_host,cpf_es_1:9200,265,Internal host names & services
+http_host,10.100.100.40:4002,260,Literal IP endpoints (no name)
+http_host,183.60.8.150,245,Literal IP endpoints (no name)
+http_host,183.47.124.53,243,Literal IP endpoints (no name)
+http_host,connectivitycheck.platform.hicloud.com,227,OS / vendor services
+http_host,183.47.118.249,221,Literal IP endpoints (no name)
+http_host,182.254.116.117,210,Literal IP endpoints (no name)
+http_host,wifi.vivo.com.cn,207,Other / unmatched
+http_host,10.100.100.40:4001,206,Literal IP endpoints (no name)
+http_host,sns-video-al.xhscdn.com,201,Other / unmatched
+http_host,ctldl.windowsupdate.com,200,OS / vendor services
+http_host,szshort.weixin.qq.com,199,Instant messaging / collaboration
+http_host,wp.safe.360.cn,195,Search & portals
+http_host,httpdns.bilivideo.com,183,Other / unmatched
+http_host,s.360.cn,179,Search & portals
+http_host,120.92.210.67,177,Literal IP endpoints (no name)
+http_host,119.147.19.143,176,Literal IP endpoints (no name)
+http_host,sns-video-bd.xhscdn.com,176,Other / unmatched
+http_host,taobao.com,173,E-commerce & local services
+http_host,117.89.182.41,172,Literal IP endpoints (no name)
+http_host,tencent.com,172,Cloud services & telemetry
+http_host,101.227.132.63,172,Literal IP endpoints (no name)
+http_host,detect.uniontech.com,167,Other / unmatched
+http_host,wx.qlogo.cn,167,Other / unmatched
+http_host,183.47.118.145,163,Literal IP endpoints (no name)
+http_host,live-source-play-hw.xhscdn.com,162,Other / unmatched
+http_host,110.43.121.3,159,Literal IP endpoints (no name)
+http_host,183.60.8.218,156,Literal IP endpoints (no name)
+http_host,119.29.29.90,155,Literal IP endpoints (no name)
+http_host,detectportal.deepin.com,149,Other / unmatched
+http_host,119.147.19.225,148,Literal IP endpoints (no name)
+http_host,sd-gl.xinqiucc.com,148,Other / unmatched
+http_host,f.video.weibocdn.com,146,Other / unmatched
+http_host,drive.wps.cn,144,Office suite / cloud drive
+http_host,182.254.118.119,138,Literal IP endpoints (no name)
+http_host,download.windowsupdate.com,131,OS / vendor services
+http_host,config.pinyin.sogou.com,130,Search & portals
+http_host,sns-video-v3.xhscdn.com,130,Other / unmatched
+http_host,get.sogou.com,128,Search & portals
+http_host,connectivitycheck.cbg-app.huawei.com,128,Cloud services & telemetry
+http_host,118.178.99.124:8899,122,Literal IP endpoints (no name)
+http_host,183.47.124.77,117,Literal IP endpoints (no name)
+http_host,ping.pinyin.sogou.com,115,Search & portals
+http_host,15.tlu.dl.delivery.mp.microsoft.com,112,OS / vendor services
+http_host,110.43.81.126,112,Literal IP endpoints (no name)
+http_host,finderpdd.video.qq.com,104,Instant messaging / collaboration
+http_host,182.10.10.63:8080,103,Literal IP endpoints (no name)
+http_host,paydns.wechatpay.cn,102,Instant messaging / collaboration
+http_host,183.136.187.252:10033,101,Literal IP endpoints (no name)
+http_host,ocsp.digicert.com,101,Other / unmatched
+http_host,connect.rom.miui.com,101,Other / unmatched
+http_host,sdk-log.partner.sm.cn,101,Other / unmatched
+http_host,vweixinf.tc.qq.com,100,Instant messaging / collaboration
+http_host,114.110.97.97,100,Literal IP endpoints (no name)
+http_host,182.254.116.116,98,Literal IP endpoints (no name)
+http_host,crl3.digicert.com,97,Other / unmatched
+http_host,pull-flv-t11.douyincdn.com:80,96,Other / unmatched
+http_host,conn-service-cn-04.allawntech.com,95,Other / unmatched

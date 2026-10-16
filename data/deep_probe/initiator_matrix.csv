@@ -1,0 +1,6 @@
+initiator->responder,sessions,bytes
+int->ext,549881,19572485264
+ext->int,103764,7970068055
+int->int,37790,4291065981
+loop->loop,1052,1825232372
+int->loop,997,566310206

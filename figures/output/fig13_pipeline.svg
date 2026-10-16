@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="685.797031pt" height="197.015656pt" viewBox="0 0 685.797031 197.015656" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-15T22:48:40.180336</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M -0 197.015656 
+L 685.797031 197.015656 
+L 685.797031 0 
+L -0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 99.56025 125.345839 
+L 167.043375 125.345839 
+Q 177.505875 125.345839 177.505875 122.296639 
+L 177.505875 45.456799 
+Q 177.505875 42.407599 167.043375 42.407599 
+L 99.56025 42.407599 
+Q 89.09775 42.407599 89.09775 45.456799 
+L 89.09775 122.296639 
+Q 89.09775 125.345839 99.56025 125.345839 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #ffffff; stroke: #1f4e79; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 187.968375 125.345839 
+L 255.4515 125.345839 
+Q 265.914 125.345839 265.914 122.296639 
+L 265.914 45.456799 
+Q 265.914 42.407599 255.4515 42.407599 
+L 187.968375 42.407599 
+Q 177.505875 42.407599 177.505875 45.456799 
+L 177.505875 122.296639 
+Q 177.505875 125.345839 187.968375 125.345839 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #ffffff; stroke: #0e7c7b; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 173.228409 83.876719 
+Q 176.457616 83.876719 178.56879 83.876719 
+" clip-path="url(#p2e99b7963f)" style="fill: none; stroke: #6b6b6b; stroke-linecap: round"/>
+    <path d="M 174.96879 82.076719 
+L 178.56879 83.876719 
+L 174.96879 85.676719 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #6b6b6b; stroke: #6b6b6b; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 276.3765 125.345839 
+L 343.859625 125.345839 
+Q 354.322125 125.345839 354.322125 122.296639 
+L 354.322125 45.456799 
+Q 354.322125 42.407599 343.859625 42.407599 
+L 276.3765 42.407599 
+Q 265.914 42.407599 265.914 45.456799 
+L 265.914 122.296639 
+Q 265.914 125.345839 276.3765 125.345839 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #ffffff; stroke: #375623; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 261.636534 83.876719 
+Q 264.865741 83.876719 266.976915 83.876719 
+" clip-path="url(#p2e99b7963f)" style="fill: none; stroke: #6b6b6b; stroke-linecap: round"/>
+    <path d="M 263.376915 82.076719 
+L 266.976915 83.876719 
+L 263.376915 85.676719 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #6b6b6b; stroke: #6b6b6b; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 364.784625 125.345839 
+L 432.26775 125.345839 
+Q 442.73025 125.345839 442.73025 122.296639 
+L 442.73025 45.456799 
+Q 442.73025 42.407599 432.26775 42.407599 
+L 364.784625 42.407599 
+Q 354.322125 42.407599 354.322125 45.456799 
+L 354.322125 122.296639 
+Q 354.322125 125.345839 364.784625 125.345839 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #ffffff; stroke: #7030a0; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 350.044659 83.876719 
+Q 353.273866 83.876719 355.38504 83.876719 
+" clip-path="url(#p2e99b7963f)" style="fill: none; stroke: #6b6b6b; stroke-linecap: round"/>
+    <path d="M 351.78504 82.076719 
+L 355.38504 83.876719 
+L 351.78504 85.676719 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #6b6b6b; stroke: #6b6b6b; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 453.19275 125.345839 
+L 520.675875 125.345839 
+Q 531.138375 125.345839 531.138375 122.296639 
+L 531.138375 45.456799 
+Q 531.138375 42.407599 520.675875 42.407599 
+L 453.19275 42.407599 
+Q 442.73025 42.407599 442.73025 45.456799 
+L 442.73025 122.296639 
+Q 442.73025 125.345839 453.19275 125.345839 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #ffffff; stroke: #c55a11; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 438.452784 83.876719 
+Q 441.681991 83.876719 443.793165 83.876719 
+" clip-path="url(#p2e99b7963f)" style="fill: none; stroke: #6b6b6b; stroke-linecap: round"/>
+    <path d="M 440.193165 82.076719 
+L 443.793165 83.876719 
+L 440.193165 85.676719 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #6b6b6b; stroke: #6b6b6b; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 541.600875 125.345839 
+L 609.084 125.345839 
+Q 619.5465 125.345839 619.5465 122.296639 
+L 619.5465 45.456799 
+Q 619.5465 42.407599 609.084 42.407599 
+L 541.600875 42.407599 
+Q 531.138375 42.407599 531.138375 45.456799 
+L 531.138375 122.296639 
+Q 531.138375 125.345839 541.600875 125.345839 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #ffffff; stroke: #a61c00; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 526.860909 83.876719 
+Q 530.090116 83.876719 532.20129 83.876719 
+" clip-path="url(#p2e99b7963f)" style="fill: none; stroke: #6b6b6b; stroke-linecap: round"/>
+    <path d="M 528.60129 82.076719 
+L 532.20129 83.876719 
+L 528.60129 85.676719 
+z
+" clip-path="url(#p2e99b7963f)" style="fill: #6b6b6b; stroke: #6b6b6b; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #1f4e79" transform="translate(114.863687 77.421344)">4 pcap files</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #1f4e79" transform="translate(119.744937 85.798594)">36.2 GB</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #1f4e79" transform="translate(108.749937 94.175844)">68.7 M packets</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #0e7c7b" transform="translate(196.494938 77.421344)">Field extraction</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #0e7c7b" transform="translate(209.602438 85.798594)">(tshark,</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #0e7c7b" transform="translate(203.832438 94.175844)">per packet)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #375623" transform="translate(283.793063 73.225219)">Data convention</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #375623" transform="translate(285.791188 81.602469)">one-way bytes;</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #375623" transform="translate(276.791813 89.994719)">loopback and non-IP</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #375623" transform="translate(297.116188 98.371969)">split out</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #7030a0" transform="translate(378.867437 73.232719)">Three views</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #7030a0" transform="translate(378.301187 81.609969)">49,560 hosts</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #7030a0" transform="translate(376.411812 89.987219)">693k sessions</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #7030a0" transform="translate(376.306812 98.364469)">13,957 names</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #c55a11" transform="translate(462.160563 73.217719)">Four detections</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #c55a11" transform="translate(454.907438 81.594969)">periodicity, entropy,</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #c55a11" transform="translate(463.828063 89.987219)">change points,</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #c55a11" transform="translate(472.496188 98.379469)">extremes</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #a61c00" transform="translate(543.124938 77.406344)">Findings and advice</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #a61c00" transform="translate(541.500563 85.798594)">capacity, monitoring,</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman', serif; fill: #a61c00" transform="translate(550.344313 94.190844)">limitation notes</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 14.3px; font-family: 'Times New Roman', serif; text-anchor: start" x="90.144" y="16.892719" transform="rotate(-0 90.144 16.892719)">Analysis pipeline: from raw captures to defensible statements</text>
+   </g>
+  </g>
+  <g id="text_8">
+   <text style="font-size: 11px; font-family: 'Times New Roman', serif; fill: #6b6b6b" transform="translate(7.2 164.384)">Every arrow is a script kept in the project folder, re-runnable end to end. Source: cap_20260920_111416/112321/112821/113321.pcap (4 files, 17.2 min;</text>
+   <text style="font-size: 11px; font-family: 'Times New Roman', serif; fill: #6b6b6b" transform="translate(7.2 175.923344)">two continuous blocks of 192 s and 842 s). One-way byte convention; loopback and non-IP traffic are handled per the data-convention note. Time-based</text>
+   <text style="font-size: 11px; font-family: 'Times New Roman', serif; fill: #6b6b6b" transform="translate(7.2 187.462688)">statements are limited to those two blocks.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p2e99b7963f">
+   <rect x="90.144" y="22.892719" width="535.68" height="121.968"/>
+  </clipPath>
+ </defs>
+</svg>
