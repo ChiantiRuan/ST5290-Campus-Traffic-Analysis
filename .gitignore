@@ -20,6 +20,4 @@ data_anonymized/
 *.pcap
 *.pcapng
 
-# 报告侧产物（报告不在本仓库内）
-*.docx
-*.pdf
+# 报告与演示件随本仓库分发（原先的 *.pdf / *.docx 忽略规则已移除）

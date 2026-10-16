@@ -5,8 +5,8 @@ Statistical analysis of a single packet-capture session taken at the core collec
 enterprise campus network. The work characterises what the traffic *is* (composition, concentration,
 who talks to whom), how it behaves *over time*, and which deviations are worth following up.
 
-This repository contains the analysis code, the plotting code and the complete figure set
-(PNG + SVG). The written report is submitted separately and is **not** part of this repository.
+This repository contains the analysis code, the plotting code, the complete figure set (PNG + SVG),
+and the submitted report together with the presentation slides, in `Report & Presentation/`.
 
 ## What was analysed
 
@@ -35,6 +35,15 @@ This repository contains the analysis code, the plotting code and the complete f
   (statistical significance, a false-positive assessment, comparison against comparable hosts), so all
   remain leads rather than confirmed anomalies.
 
+## Report and presentation
+
+| Item | File |
+|---|---|
+| Final report (10 pages, submitted to the course) | `Report & Presentation/RuanYanxin_ST5290_Report.pdf` |
+| Presentation slides (12 pages, 16:9) | `Report & Presentation/ST5290_Presentation_Slides.pdf` |
+
+The recorded 10-minute talk is submitted to the course separately and is not stored in this repository.
+
 ## Repository layout
 
 ```
@@ -47,6 +56,7 @@ data/              derived tables the figures are built from (~3.6 MB) + data/RE
                    (figures/output/ also holds chart_data_f19_categories.csv, the small table the F19
                    note refers to)
 tools/             helper utilities (anonymize_data.py)
+Report & Presentation/  the submitted report (PDF) and the presentation slides (PDF)
 requirements.txt   Python dependencies
 ```
 
